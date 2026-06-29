@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ludon. Software developer and cybersecurity analyst building scalable, secure web applications by blending robust software engineering principles with proactive threat mitigation.
+👋 Hi, I'm Ludon. Software developer and cybersecurity analyst building scalable, secure web applications by blending robust software engineering principles with proactive threat mitigation.
 ## 👨‍💻 About Me
 - 💻 Building solutions to solve real-world problems.
 - 🔍 Interested in Software Engineering and Cybersecurity.
