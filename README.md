@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ludon K. 👋
 
-<!--
-**LuDon25/LuDon25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer and cybersecurity analyst focused on building scalable, secure web applications by blending robust software engineering principles with proactive threat mitigation.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 💻 Building solutions to solve real-world problems.
+- 🔍 Interested in Software Engineering and Cybersecurity.
+- 🌱 Continuously updating my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- HTML5 • CSS3 • JavaScript • Python
+- Next.js • Django
+- PostgreSQL
+- Git • GitHub
+
+## 🎯 Goals for 2026
+- Contribute to open source.
+- Continue building production-ready applications.
