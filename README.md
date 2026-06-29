@@ -1,6 +1,6 @@
 # Hi, I'm Ludon K. 👋
 
-I am a software developer and cybersecurity analyst focused on building scalable, secure web applications by blending robust software engineering principles with proactive threat mitigation.
+Software developer and cybersecurity analyst focused on building scalable, secure web applications by blending robust software engineering principles with proactive threat mitigation.
 
 ## 👨‍💻 About Me
 - 💻 Building solutions to solve real-world problems.
