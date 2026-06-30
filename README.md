@@ -2,7 +2,7 @@
 ## 👨‍💻 About Me
 - 💻 Building solutions to solve real-world problems.
 - 🔍 Interested in Software Engineering and Cybersecurity.
-- 🌱 Continuously updating my skills.
+- 🌱 Continuously refreshing and updating my skills.
 ## 🛠️ Tech Stack
 - HTML5 • CSS3 • JavaScript • Python
 - Next.js • Django
